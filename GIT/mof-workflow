@@ -1,0 +1,18 @@
+# MOF Workflow
+
+Basically Follow [GitHub Flow](https://guides.github.com/introduction/flow/) Workflow.
+
+[![Alt text](https://img.youtube.com/vi/EwWZbyjDs9c/0.jpg)](https://www.youtube.com/watch?v=EwWZbyjDs9c "Workflow")
+
+## Create/fork project in GitHub
+
+## Clone to local machine
+
+### Set up Upstream (if forked)
+[configuring-a-remote-for-a-fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+
+#### Sync with upstream
+[syncing-a-fork](https://help.github.com/articles/syncing-a-fork/)
+
+#### Push to Origin (GitHub project)
+[pushing-to-a-remote](https://help.github.com/articles/pushing-to-a-remote/) 
